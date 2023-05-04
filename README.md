@@ -1,7 +1,7 @@
-
+<p align="center">
 # 💫 About Me:
 Hola Coders!<br>I'm Harish Ghasolia a developer, student a tech enthusiast person. <br>Currently I am learning OOPS in Java and explorer Machine Learning. <br>
-
+<p>
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/harish_ghasolia/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/harish-ghasolia-124b9724b/) 
