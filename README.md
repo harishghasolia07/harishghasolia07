@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hola Coders!<br>I'm Harish Ghasolia a developer, student a tech enthusiast person. <br>Currently I am learning OOPS in Java and explorer Machine Learning. <br>
+Hola Coders!<br>I'm Harish Ghasolia a developer, student and a tech enthusiast person. <br>Currently I am learning OOPS in Java and explorer Machine Learning. <br>
   
   
 ## 🌐 Socials:
