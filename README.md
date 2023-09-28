@@ -1,4 +1,4 @@
-<img src="https://miro.medium.com/v2/resize:fit:720/format:webp/1*sUI4nkPfH0wevBQMb29cnQ.jpeg" alt=code>
+<img src="https://miro.medium.com/v2/resize:fit:1400/1*sV60JhlYL4IdWjcNvKTJRA.png" alt=code>
 
 # 💫 About Me:
 Hola Coders!<br>I'm Harish Ghasolia a developer, student and a tech enthusiast person. <br>Currently I am learning OOPS in Java and explorer Machine Learning. <br>
