@@ -1,9 +1,5 @@
 <img src="https://miro.medium.com/v2/resize:fit:1400/1*sV60JhlYL4IdWjcNvKTJRA.png" style="background-color:yellow">
 
-<div style="background-color: yellow;">
-  <img src="https://miro.medium.com/v2/resize:fit:1400/1*sV60JhlYL4IdWjcNvKTJRA.png" alt="Image">
-</div>
-
 # 💫 About Me:
 Hola Coders!<br>I'm Harish Ghasolia a developer, student and a tech enthusiast person. <br>Currently I am learning NodeJs, React and explorer Machine Learning. <br>
   
