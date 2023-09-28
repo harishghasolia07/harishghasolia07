@@ -1,4 +1,4 @@
-<img src="https://media.licdn.com/dms/image/D5616AQHW0cynBGahvw/profile-displaybackgroundimage-shrink_200_800/0/1678997638142?e=2147483647&v=beta&t=fF2k2V3V8kXcs8KoaOCO_glWz-ZYlM-uAhWnPaUB7TQ" style="background-color:yellow">
+<img src="https://miro.medium.com/v2/resize:fit:1400/1*sV60JhlYL4IdWjcNvKTJRA.png"" style="background-color:yellow">
 
 # 💫 About Me:
 Hola Coders!<br>I'm Harish Ghasolia a developer, student and a tech enthusiast person. <br>Currently I am learning NodeJs, React and explorer Machine Learning. <br>
