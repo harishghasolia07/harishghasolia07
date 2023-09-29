@@ -1,7 +1,7 @@
-
+<img src="https://miro.medium.com/v2/resize:fit:1400/1*sV60JhlYL4IdWjcNvKTJRA.png" style="background-color:yellow">
 # 💫 About Me:
 Hola Coders!<br>I'm Harish Ghasolia a developer, student and a tech enthusiast person. <br>Currently I am learning NodeJs, React and explorer Machine Learning. <br>
-<img src="https://camo.githubusercontent.com/cae12fddd9d6982901d82580bdf321d81fb299141098ca1c2d4891870827bf17/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966" style="background-color:white"> 
+
   
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/harish_ghasolia/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/harish-ghasolia-124b9724b/) 
