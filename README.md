@@ -1,6 +1,6 @@
 # Hi, I'm Harish Ghasolia 👋
 
-**Full Stack Developer** · Available for opportunities
+**Full Stack Developer**
 
 I build responsive, scalable web applications with **React.js**, **Next.js**, **Node.js**, and **MongoDB**. I turn UI designs into production-ready code, integrate REST APIs, and ship full-stack features that solve real user problems — with a growing focus on **AI-powered products**.
 
