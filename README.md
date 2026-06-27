@@ -12,7 +12,11 @@ I build responsive, scalable web applications with **React.js**, **Next.js**, **
 
 ## 💼 Work Experience
 
-**Full Stack Developer** · [Snapmydesign](https://snapmydesign.com/) · *Feb 2025 – Present*
+**AI Engineer** · The Ladder · *May 2026 – Present*
+- Built **ClickUp Brain**, a multi-agent orchestration system with Node.js, Express, TypeScript, and Hermes that auto-creates and updates ClickUp tasks from Slack, Gmail, GitHub, and meeting transcripts
+- Deployed production infrastructure on Hetzner with Docker-isolated agents
+
+**Full Stack Developer** · [Snapmydesign](https://snapmydesign.com/) · *Feb 2025 – March 2026*
 - Built AI-powered product photography tools (AI Photoshoot, Try-On, Cloth Extractor, video generation) with Next.js, Tailwind CSS, and TypeScript
 - Designed and consumed REST APIs with FastAPI and Firebase; deployed on AWS
 
